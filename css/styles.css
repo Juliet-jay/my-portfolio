@@ -44,14 +44,27 @@ body{
 }
 
 .imgo{
-  padding-bottom: 50%;
-  margin-bottom: 20px;
-  background-image: url("http://hotemailtemplates.com/templates/Free/wallpapers/1680x1050/Glowing%20Background.jpg");
+  padding-bottom: 10%;
+  margin-bottom: 80%;
+  background-image:url("http://hotemailtemplates.com/templates/Free/wallpapers/1680x1050/Glowing%20Background.jpg");
+  height: 1800%
+  border:2px solid white;
+
 }
 
 .me{
   border:1px solid white;
   border-radius: 8%;
+}
+
+.contact{
+  display:block;
+  padding-top: 10%;
+  padding-left: 30%;
+  padding-right: 30%;
+
+
+
 }
 
 
