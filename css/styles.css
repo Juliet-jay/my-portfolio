@@ -76,6 +76,11 @@ body{
      padding-right: 10%;
 }
 
+#textl{
+ float: right;
+
+}
+
 #imgo{
     border: 1px solid black;
     height: 1234;
