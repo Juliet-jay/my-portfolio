@@ -14,20 +14,22 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Cinzel Decorative', cursive;}
 .icon-bar a {
   display: block;
   text-align: center;
-  padding:26%;
-  transition: all 0.8s ease;
-  color:blue;
-  font-size: 44px;
+  padding:15%;
+  transition: all 0.3s ease;
+  color:white;
+  font-size: 26px;
+  text-decoration: none;
 
 }
 .icon-bar{
-  height: inherit;
-  width: 140px;
+  height: 100%;
+  width: 145px;
   background: #222;
   position: fixed;
   border: 1px solid grey:
-  padding:2%;
+  padding:5%;
   overflow-x: scroll;
+
 
 }
 
