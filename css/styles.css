@@ -41,14 +41,13 @@ body{
   background-color:black;
   font-size-adjust: auto;
   color: white;
+  background-image:url("http://hotemailtemplates.com/templates/Free/wallpapers/1680x1050/Glowing%20Background.jpg");
+  border-right: 200%
 }
 
-.imgo{
-  padding-bottom: 10%;
-  margin-bottom: 80%;
-  background-image:url("http://hotemailtemplates.com/templates/Free/wallpapers/1680x1050/Glowing%20Background.jpg");
-  height: 1800%
-  border:2px solid white;
+
+
+
 
 }
 
@@ -72,6 +71,13 @@ body{
      text-align: left;
      float: right;
      padding-top: 15%;
+     padding-right: 10%;
+}
+
+#imgo{
+    border: 1px solid black;
+    height: 1234;
+    border-width: 900;
 }
 
 
